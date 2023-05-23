@@ -1,0 +1,1 @@
+# Deploying-Docker-Containers-on-AWS-ECS-using-Fargate-and-Terraform
